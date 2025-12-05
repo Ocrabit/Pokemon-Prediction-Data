@@ -1,6 +1,6 @@
 # Pokemon-Prediction-Data
 
-### [Google Colab Link]((https://colab.research.google.com/drive/17-XhZfBzx17Q95SJ4DGMkYjGuVWc_Gsk)
+### [Google Colab Link](https://colab.research.google.com/drive/17-XhZfBzx17Q95SJ4DGMkYjGuVWc_Gsk)
 
 ### [Presentation Link](https://www.canva.com/design/DAGDJh8okvQ/kjFWM35OT6cwqR05IxT54w/edit?utm_content=DAGDJh8okvQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
